@@ -1,0 +1,42 @@
+DONE: Tests.cpp:18:testbool == 1
+DONE: Tests.cpp:21:testbool == 0
+DONE: Tests.cpp:24:testbool == 1
+DONE: Tests.cpp:27:testbool == 1
+DONE: Tests.cpp:30:testbool == 0
+DONE: Tests.cpp:33:testbool == 0
+DONE: Tests.cpp:36:testbool == 0
+
+******************************************
+TOTAL: 7
+DONE : 7
+FAIL : 0
+******************************************
+hallo
+DONE: Tests.cpp:18:testbool == 1
+DONE: Tests.cpp:21:testbool == 0
+DONE: Tests.cpp:24:testbool == 1
+DONE: Tests.cpp:27:testbool == 1
+DONE: Tests.cpp:30:testbool == 0
+DONE: Tests.cpp:33:testbool == 0
+DONE: Tests.cpp:36:testbool == 0
+
+******************************************
+TOTAL: 7
+DONE : 7
+FAIL : 0
+******************************************
+
+DONE: Tests.cpp:18:testbool == 1
+DONE: Tests.cpp:21:testbool == 0
+DONE: Tests.cpp:24:testbool == 1
+DONE: Tests.cpp:27:testbool == 1
+DONE: Tests.cpp:30:testbool == 0
+DONE: Tests.cpp:33:testbool == 0
+DONE: Tests.cpp:36:testbool == 0
+
+******************************************
+TOTAL: 7
+DONE : 7
+FAIL : 0
+******************************************
+
